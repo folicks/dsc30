@@ -1,0 +1,21 @@
+Name:Felix Najera
+PID:A17618969
+Date:8/11/24
+
+
+1. (3pts) In your own words, how does the insert method in SinglyLinkedList.java differ from the add method?
+
+Allows inserting an object (element) at a specific index in the list. This involves looping the list to the desired position and adjusting the links between nodes to accommodate the new element shifting subsequent nodes to the right. If the index is zero, the new element becomes the head of the list doing the same thing but "inserting" at the end of the list only when populated with data. 
+
+2. (3pts) In your own words, how does the remove method in SinglyLinkedList.java differ from the pop method?
+
+Pop is the same methodology as remove except the method will return the removed\
+object. Removes a node while looping through other nodes to reference other\
+nodes going over the removed node's place.
+
+
+3. (4pts) ArrayList.java contains a non-constructor method that SinglyLinkedList.java does not. What is this method, and why might it appear in ArrayList.java but not SinglyLinkedList.java?
+The array will have a fixed length thus you'll get index errors often.\
+Thus the class needs an explicit method for the size.\
+Compared to the list having its length dictated by the number of nodes \
+referencing each other.

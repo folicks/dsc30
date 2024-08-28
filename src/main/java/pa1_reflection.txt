@@ -1,0 +1,21 @@
+Name:
+PID:
+Date:
+
+1. (1pt) Approximately how long did you spend on this PA?
+I spent about 18 hours due to not understanding a lot of the concepts. In \
+practice like making actual instantiations of the data.
+2. (3pt) What is something that you think you did well on this PA?
+Although that time spent did ensure I was understanding what my scope.\
+When to have what classes/methods in mind when making the Node class \
+although having that same level of understanding in DoublyLinkedList not so \
+much.
+3. (3pt) What is something that you struggled with on this PA?
+The naming of the abstractions wishing they meant something more intuitive to \
+stationary "containers" as opposed to a looped-through assignment example \
+the phrase "current". Therefore I was pretty lost on scope throughout and \
+what types to use because of this.
+4. (1pt) Would you rather have done PA 0 and PA 1 together in one assignment, or did it help you to have them as separate assignments? 
+Separate was preferred it did help the learning experience in doing the \
+process one by one. Being able to see the parts in a more granular way in the \
+setting of Java.
